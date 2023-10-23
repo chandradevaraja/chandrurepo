@@ -1,1 +1,3 @@
 hi this the seconf file in git.
+
+adding some data seconf time ( pull and push)``
